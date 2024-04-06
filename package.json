@@ -1,0 +1,14 @@
+{
+  "name": "pgtas",
+  "version": "1.0.0",
+  "description": "Projeto da Pós Graduação do Júlio. Primeiro projeto com JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "estudo"
+  ],
+  "author": "Lobo, Flávia P P",
+  "license": "ISC"
+}
