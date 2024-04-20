@@ -1,4 +1,4 @@
-console.log("Happy Tests\n")
+console.log("Happy Tests\n");
 
 // Declarando a variável para armazenar o nome
 let nome;
@@ -15,21 +15,21 @@ nome = "Marcos";
 */
 
 // Apresento o conteúdo da variável no Console
-console.log(nome)
+console.log(nome);
 console.log(`Meu nome é ${nome} e a Sandra é a minha esposa, a CEO da casa`);
 
-console.log("\nTeste Flávio do Git\n\n")
+console.log("\nTeste Flávio do Git\n\n");
 let name;
-name = "Flávio"
-console.log("Happy testing, " + name)
+name = "Flávio";
+console.log("Happy testing, " + name);
 
 /* 
     Block comment here!
     */
 
-    //Normal comment here...
+//Normal comment here...
 
-let love = "Arabella"
+let love = "Arabella";
 
-console.log(name + " loves " + love)
-console.log (`O ${name} faz tudo que a ${love} mandar`)
+console.log(name + " loves " + love);
+console.log(`O ${name} faz tudo que a ${love} mandar`);

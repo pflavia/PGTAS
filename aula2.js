@@ -66,8 +66,8 @@ console.log(linguagensDeProgramacao.join(" e "))
 */
 
 //Desafio
-let variavelValor = 5
-let vetorResultado = [variavelValor+5,5.99+variavelValor]
-console.log(vetorResultado.join(" e "))
-let resultado = vetorResultado[0] + vetorResultado[1]
+let variavelValor = 5;
+let vetorResultado = [variavelValor + 5, 5.99 + variavelValor];
+console.log(vetorResultado.join(" e "));
+let resultado = vetorResultado[0] + vetorResultado[1];
 console.log(`O resultado final é ${resultado}`);
